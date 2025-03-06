@@ -16,8 +16,7 @@ export default function Home() {
         <div className="flex flex-col items-center text-center">
           <div className="flex items-center">
             <h1 className="mr-3 text-5xl font-semibold">
-            Recurring Question Finder
-
+              🗣️ Talk to your  Question Paper
             </h1>
             <UserButton afterSwitchSessionUrl="/"/>
           </div>
